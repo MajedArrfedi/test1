@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/MajedArrfedi/test1/issues"
   },
-  "homepage": "https://github.com/MajedArrfedi/test1#readme",
   "description": "",
   "devDependencies": {
     "@aws-amplify/backend": "^1.14.3",
